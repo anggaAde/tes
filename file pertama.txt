@@ -1,2 +1,6 @@
 ini cuman tes ajah
 perubahan numero uno
+
+perubahan setelah unstaged changes
+
+perubahan setelah di commit
